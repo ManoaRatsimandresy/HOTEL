@@ -1,0 +1,10 @@
+INSERT INTO have_reduced_price (room_type_id, discount_id) VALUES (1, 1);
+INSERT INTO have_reduced_price (room_type_id, discount_id) VALUES (4, 7); 
+INSERT INTO have_reduced_price (room_type_id, discount_id) VALUES (4, 10);
+INSERT INTO have_reduced_price (room_type_id, discount_id) VALUES (3, 3); 
+INSERT INTO have_reduced_price (room_type_id, discount_id) VALUES (3, 1); 
+INSERT INTO have_reduced_price (room_type_id, discount_id) VALUES (1, 9); 
+INSERT INTO have_reduced_price (room_type_id, discount_id) VALUES (4, 6); 
+INSERT INTO have_reduced_price (room_type_id, discount_id) VALUES (2, 6); 
+INSERT INTO have_reduced_price (room_type_id, discount_id) VALUES (3, 9); 
+INSERT INTO have_reduced_price (room_type_id, discount_id) VALUES (2, 9); 
