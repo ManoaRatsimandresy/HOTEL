@@ -1,0 +1,10 @@
+INSERT INTO city (name) VALUES ('Toliara');       
+INSERT INTO city (name) VALUES ('Morondava');     
+INSERT INTO city (name) VALUES ('Fianarantsoa');       
+INSERT INTO city (name) VALUES ('Antsirabe');     
+INSERT INTO city (name) VALUES ('Tamatave');
+INSERT INTO city (name) VALUES ('Antananarivo');     
+INSERT INTO city (name) VALUES ('Majunga');       
+INSERT INTO city (name) VALUES ('Antsiranana');
+INSERT INTO city (name) VALUES ('Sambava');     
+INSERT INTO city (name) VALUES ('Manakara');
