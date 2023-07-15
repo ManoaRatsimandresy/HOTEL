@@ -1,0 +1,3 @@
+SELECT *
+FROM discount
+WHERE start_time <= CURRENT_TIMESTAMP AND end_time >= CURRENT_TIMESTAMP;
