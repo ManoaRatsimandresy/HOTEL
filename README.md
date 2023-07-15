@@ -36,3 +36,15 @@ L'Hôtel Saphir est bien plus qu'un simple lieu de séjour. C'est une expérienc
 Notre site web vous permet de découvrir nos chambres et suites élégamment aménagées, de vous renseigner sur nos services et équipements haut de gamme, et de réserver votre prochain séjour en toute simplicité.
 
 Visitez notre site web pour plonger dans l'atmosphère luxueuse de l'Hôtel Saphir et réservez dès maintenant pour vivre une expérience inoubliable.
+
+
+## Nom d'utilisateur des équipes
+
+JunkaM : ANDRIAMIARINIRINA Mikanto Nilaina idealy STD:22065
+
+allan-12 : RAVOHITSOA Fitokiana Allan Patrick STD:22087
+
+Zo-Tsilavina : RASAMIARIMANANA Zo Tsilavina STD:22083
+
+ManoaRatsimandresy : Ratsimandresy Manoa Herilala STD:22085
+
